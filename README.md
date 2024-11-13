@@ -1,4 +1,4 @@
-# 🎮 React-Millionaire-Quiz-Game 🎉
+# 🎮 React Millionaire Quiz Game 🎉
 
 Bu projede, kullanıcıların sorulara doğru yanıt vererek puan kazandığı bir Trivia oyunu geliştirilmiştir. Uygulama, kullanıcıların isim girmelerine ve ardından sorulara yanıt vermelerine olanak tanımaktadır. Proje, bir API'den veri çekmekte ve ses efektleri ile etkileşim sağlayarak dinamik bir deneyim sunmaktadır.
 
